@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: World Energy Output and Consumption
 ---
-# World Energy Output and Consumption
 
 This is content!
